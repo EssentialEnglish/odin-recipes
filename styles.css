@@ -5,3 +5,14 @@ div {
     text-align: center;
     font-weight: bold;
   }
+
+  body {
+   
+    background-color: yellow;
+    color: hsl(15, 82%, 56%);
+  }
+
+  img {
+    height: auto;
+    width: 500px;
+  }
